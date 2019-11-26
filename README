@@ -1,1 +1,14 @@
-WIP
+Hello hello and welcome to my repo. I am taking it upon myself to take a deep dive
+into C++ language through Bjarne Stroustrup's book `The C++ Programming Language`.
+
+I have a passion for bleeding edge tools and want to build them. Due to the reliability, blazing fast speed,
+and low level capabilities, C++ is an ideal weapon for this.
+I believe that C++ encapsulates many of the first principles of programming as well as support
+for the various language paradigms (Object Oriented, Functional, Procedural, etc.). The language is a building block
+for many other programming languages and tools that have shaped the world around us.
+
+This book starts giving a "lighting tour" in chapters 1-5.
+I am choosing to skip those chapters in this guide. I will start in Chapter 6 with a deep dive into the basic data types
+and move forward from there.
+
+You can find the book here: https://www.amazon.com/C-Programming-Language-4th/dp/0321563840
